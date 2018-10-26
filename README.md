@@ -18,7 +18,7 @@ Among chosen scenes 17 images contain flat varied in colour sheets of paper (so-
 
 ### IITP-close and IITP-diffuse 
 
-The second and the third parts of the dataset consist of natural scene images taken by at IITP RAS.
+The second and the third parts of the dataset consist of natural scene images taken at IITP RAS.
 There are 5 about 450x500 images of scenes with close light source and 7 1280x1024 images of scenes with diffuse light source . The camera model for *IITP-close* is  unfortunatelly unknown. Images from *IITP-diffuse* sub-dataset was taken with Olympus D600L camera. All images contain volumetric objects, some of which with highlights, but with no inter-reflection effects.   
 
 To examine intensity transfer function linearity of the recording sensor, regions of rank 1 were chosen in each sub-dataset and the shape of the corresponding clusters of pixels in CSp was analysed. For all three sub-datasets parts the shape of the clusters was shown to be well approximated by a line segment.
