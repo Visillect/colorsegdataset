@@ -64,5 +64,4 @@ If you use this dataset, please cite the following for Selected-SFU subdataset:
 ## Acknowledgements
 
 Thanks to Dr. Pavel Chochia for dataset images collected at IITP RAS.
-
 Sincere gratitude to Dmitry Sidorchuk for technical help.
