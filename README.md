@@ -16,10 +16,16 @@ In the original dataset each scene is taken under 11 different close light sourc
 Here scenes under Philips Ultralume were chosen. 
 Among chosen scenes 17 images contain flat varied in colour sheets of paper (so-called "mondrians"), 5 images contain volumetric objects without or with insignificant highlights, on 2 more images volumetric objects with highlights and  inter-reflection effects are depicted. For all images linear contrast adjustment with 95% quantile was applied, 5% of pixels were allowed to be saturated.
 
+<img height="500px" width="840px" align="center" src="https://github.com/Visillect/colorsegdataset/blob/master/Selected-SFU/preview.png">
+
 ### IITP-close and IITP-diffuse 
 
 The second and the third parts of the dataset consist of natural scene images taken at IITP RAS.
 There are 5 about 450x500 images of scenes with close light source and 7 1280x1024 images of scenes with diffuse light source . The camera model for *IITP-close* is  unfortunatelly unknown. Images from *IITP-diffuse* sub-dataset was taken with Olympus D600L camera. All images contain volumetric objects, some of which with highlights, but with no inter-reflection effects.   
+
+<img height="160px" width="840px" align="center" src="https://github.com/Visillect/colorsegdataset/blob/master/IITP-close/preview.png">
+
+<img height="337px" width="840px" align="center" src="https://github.com/Visillect/colorsegdataset/blob/master/IITP-diffuse/preview.png">
 
 To examine intensity transfer function linearity of the recording sensor, regions of rank 1 were chosen in each sub-dataset and the shape of the corresponding clusters of pixels in CSp was analysed. For all three sub-datasets parts the shape of the clusters was shown to be well approximated by a line segment.
 
