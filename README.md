@@ -27,8 +27,6 @@ There are 5 about 450x500 images of scenes with close light source and 7 1280x10
 
 <img height="337px" width="840px" align="center" src="https://github.com/Visillect/colorsegdataset/blob/master/IITP-diffuse/preview.png">
 
-To examine intensity transfer function linearity of the recording sensor, regions of rank 1 were chosen in each sub-dataset and the shape of the corresponding clusters of pixels in CSp was analysed. For all three sub-datasets parts the shape of the clusters was shown to be well approximated by a line segment.
-
 ## Ground truth
 
 For annotation purposes, images were first automatically splitted into small subregions with guaranteed colour constancy, and then are manually merged if their colours were undistinguished by a human eye.
