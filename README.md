@@ -52,7 +52,7 @@ The dataset is licensed under Apache 2.0, quoted below.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-If you use this dataset, please, cite our paper:
+If you use this dataset, please, cite our paper
 
     @inproceedings{smagina2019linear,
       title={Linear colour segmentation revisited},
@@ -64,7 +64,7 @@ If you use this dataset, please, cite our paper:
       organization={International Society for Optics and Photonics}
     }
 
-For *Selected-SFU* subdataset, please, also cite 
+For *Selected-SFU* subdataset, please, cite also 
 
     @article{barnard2002data,
         title={A data set for color research},
