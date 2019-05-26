@@ -52,7 +52,19 @@ The dataset is licensed under Apache 2.0, quoted below.
     See the License for the specific language governing permissions and
     limitations under the License.
 
-If you use this dataset, please cite the following for Selected-SFU subdataset:
+If you use this dataset, please, cite our paper:
+
+    @inproceedings{smagina2019linear,
+      title={Linear colour segmentation revisited},
+      author={Smagina, Anna and Bozhkova, Valentina and Gladilin, Sergey and Nikolaev, Dmitry},
+      booktitle={Eleventh International Conference on Machine Vision (ICMV 2018)},
+      volume={11041},
+      pages={110410F},
+      year={2019},
+      organization={International Society for Optics and Photonics}
+    }
+
+For *Selected-SFU* subdataset, please, also cite 
 
     @article{barnard2002data,
         title={A data set for color research},
