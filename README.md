@@ -1,4 +1,4 @@
-# A benchmark dataset for color segmentation
+# A benchmark dataset for colour segmentation
 
 This repository contains color images of natural scenes with non-overdetailed objects together with pixel-by-pixel color-based segmentation annotations.
 The dataset consists of 3 distinct parts (sub-datasets), any of which fully acquired with the use of a single camera sensor:
